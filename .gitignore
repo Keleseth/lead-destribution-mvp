@@ -1,5 +1,65 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
 .venv/
 venv/
-__pycache__/
-*.pyc
+env/
+ENV/
+
+# SQLite databases
+*.sqlite
+*.sqlite3
+*.db
+*.db-shm
+*.db-wal
+*.db-journal
+app.db
+
+# Logs
+*.log
+logs/
+
+# Env files
+.env
+.env.*
+*.env
+
+# Test & coverage
+.pytest_cache/
+.cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+
+# Type checker caches
+.mypy_cache/
+.pytype/
+.pyre/
+
+# Build / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# Editors / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local app data
 instance/
+local/
+data/
