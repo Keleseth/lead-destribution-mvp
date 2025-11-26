@@ -1,5 +1,14 @@
 ТЗ по реализации сервиса распределния запросов из арзнычх источников по оператором для вакансии ИП Веренько Игорь Николаевич - Backend-разработчик
 
+### Технологии и инструменты
+![Python](https://img.shields.io/badge/-Python%203.12-blue?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-red?style=for-the-badge)
+![Pydantic](https://img.shields.io/badge/-Pydantic-orange?style=for-the-badge)
+![Uvicorn](https://img.shields.io/badge/-Uvicorn-4B8BBE?style=for-the-badge)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![aiosqlite](https://img.shields.io/badge/-aiosqlite-2CA5E0?style=for-the-badge)
+
 Описание:
 
 Модели (SQLAlchemy, кратко):
